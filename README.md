@@ -424,6 +424,7 @@ Make YOURLS work with other platforms, programming languages or tools.
   - [YOURLS BASH](https://github.com/ozh/yourls-bash) - a simple BASH script to shorten URLs with YOURLS
 - [CakePHP](https://github.com/adrianoluis/CakePHP-YOURLS-Plugin) - Plugin to integrate YOURLS.
 - [Drupal](https://www.drupal.org/project/shorten) - YOURLS for Drupal.
+- [EMACS](https://github.com/jsrjenkins/yourls.el) - YOURLS functions for integration in Emacs.
 - [FreeBSD Freshport](https://www.freshports.org/www/yourls/) - a FreeBSD package.
 - [Gnome Desktop](https://github.com/joshp23/gnome-shell-extension-yourls) - Gnome Shell extension to shorten links in the clipboard.
 - Laravel
